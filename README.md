@@ -190,7 +190,6 @@ Tuning
 Resurrection
 Revelation
 Result
-Contract Dispute
 Caravan
 Trainers
 Train
