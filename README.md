@@ -7,10 +7,7 @@ It begins in a bar as Carlos the Barded Dwarf convinces a band of youth to seek 
 
 And from the valley into the mountain and over the plains into the desert they find the horde is a civilization of goblinkin as advanced and civilized as the humans.
 
-It took over five years to write. A few chapters have had edit and rewrites, but most have not. Kalab J. Oster&trade; just wrote as the story came to mind and it became an obsession.
-
-For The Small Shield has been open sourced and free to use given you give credit Kalab J. Oster&trade; for story origin and credit for yourself for any edits made.
-
+As the goblin world clashes with the human world, the team of adventures hold the key to stop the goblin takeover of their human lead world.
 
 ### Source
 
@@ -243,19 +240,12 @@ There are additional files in the source that are not indexed chapters, but time
 221. Game Over
 
 
-## Copyright
+## History
 
-  Open Story License
+It took over five years to write. A few chapters have been edited enough not be bad, but most have not. Kalab J. Oster&trade; just wrote as the story came to mind and it became an obsession.
 
-  Story: For The Small Shield
-  Writer: Kalab J. Oster&trade;
-  Copyright Holders: Kalab J. Oster&trade;
-  copyright &copy; 2017 Kalab J. Oster&trade;
+For The Small Shield has been open sourced and free to use given you give credit Kalab J. Oster&trade; for story origin and credit for yourself for any edits made.
 
-  Permission is granted by the Copyright Holders for humans or other intelligent agents to read, write, edit, publish
-  and critique the Story if the humans or intelligent agents keep this Open Story License with the Story,
-  and if another writer writes or edits the Story then the writer's name needs to be appended to the end of the Writer
-  list of this Open Story License.
 
 
 ### Contributing
@@ -263,3 +253,15 @@ There are additional files in the source that are not indexed chapters, but time
 If you wish to edit and write For The Small Shield simply branch, edit or write then submit a pull request.
 
 We will work to merge your changes once life and time are given and given the change conform to the story.
+
+
+## Copyright
+
+  **Open Story License**
+
+  **Story: For The Small Shield**
+  **Writer: Kalab J. Oster&trade;**
+  **Copyright Holders: Kalab J. Oster&trade;**
+  **copyright &copy; 2017 Kalab J. Oster&trade;**
+
+**Permission is granted by the Copyright Holders for humans or other intelligent agents to read, write, edit, publish and critique the Story if the humans or intelligent agents keep this Open Story License with the Story, and if another writer writes or edits the Story then the writer's name needs to be appended to the end of the Writer list of this Open Story License.**
