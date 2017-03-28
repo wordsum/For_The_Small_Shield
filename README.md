@@ -1,4 +1,4 @@
-#For The Small Shield
+# For The Small Shield
 
 
 For The Small Shield is a story written by Kalab J. Oster&trade; that need editing either by humans or A.I..
@@ -11,19 +11,15 @@ It took over five years to write. A few chapters have had edit and rewrites, but
 
 For The Small Shield has been open sourced and free to use given you give credit Kalab J. Oster&trade; for story origin and credit for yourself for any edits made.
 
-###Contributing
 
-If you wish to edit and write For The Small Shield simply branch, edit or write then submit a pull request.
-
-We will work to merge your changes once life and time are given and given the change conform to the story.
-
-###Source
+### Source
 
 The list of chapters following are what have been recorded as the chapters of For The Small Shield as they were wrote by Kalab J. Oster&trade;.
 
 There are additional files in the source that are not indexed chapters, but time has not been given to decide their purpose, so they remain committed to this repository.
 
-###Chapters
+
+### Chapters
 1. In The Bar
 2. From Bar To Road
 3. Bandits and New Friend
@@ -247,7 +243,7 @@ There are additional files in the source that are not indexed chapters, but time
 221. Game Over
 
 
-##Copyright
+## Copyright
 
   Open Story License
 
@@ -261,3 +257,9 @@ There are additional files in the source that are not indexed chapters, but time
   and if another writer writes or edits the Story then the writer's name needs to be appended to the end of the Writer
   list of this Open Story License.
 
+
+### Contributing
+
+If you wish to edit and write For The Small Shield simply branch, edit or write then submit a pull request.
+
+We will work to merge your changes once life and time are given and given the change conform to the story.
