@@ -1,0 +1,236 @@
+#For The Small Shield
+
+
+## Chapters:
+In The Bar
+From Bar To Road
+Bandits and New Friend
+Only Intersection In Town
+Versus Poison
+A Day of Rest
+A Night of Drinking
+Packing
+A Day Without Incident
+Dead of Night
+Buckey
+Where's Buckey?
+Whinnys, Nickers, Snorts and Blusters
+Bar-bar
+Branching
+The Wide Long Halls, Large Rooms and Small Rooms
+Shake 
+Kirra and Jan and Minst 
+Myst and William
+Spear
+Branch
+A Full Day of Rest
+The Dream
+Otherside of the Wall
+Swamp
+Horde
+The Cave
+Dargon's Lair
+The Feeling
+What Are We Going To Do?
+Alarm
+Hack and Slash
+Black Dragon
+Follow The Bright Light
+North
+Buckey Dies
+Goblin King
+Shakes
+Shaman
+Sleeping with the Goblin Horde
+Sleeping with the Shaman
+Dungeon Crawl
+Plump
+Sewer Rats
+Refuse
+Were
+Level-up
+Lifted
+Relief
+Sage
+Were Is Spear
+Where Is Spear
+Marks
+Bazaar 
+The Pack
+Unpack
+Hangover
+Judegement
+Pack
+Filter
+Cantrips and Slinging
+Seven Rotations
+Sole Searching
+Release
+Surface Talk
+Graphic
+Descent
+Base
+Stand
+Sediment
+Bury
+Ritual 
+Grave
+Morning
+Plow
+Seeding
+Growth
+Harvest
+Feast
+The Hand That Feeds
+Venomous
+Darkclad Beings
+Thowing Down The Guantlet
+Double Vision
+Through
+Alteration
+What Do We Do Now?
+The Militia
+Public House
+,,SSSSSSSSSSSSSSSSSSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHAAAAAAAAAAAAAAAAAAAAAAKKKKKKKKKKKKKEEEEEEEEEEEEEEEEEEEEEEE.''
+>Shake.< 
+Guile
+Sixteen Rotations
+Pick Locks
+On The Lamb 
+Flocks
+Herding
+Graze 
+Stable
+Jostle
+Settle
+Speed and Haste
+Lyno
+Break Fast
+Where Do We Go Now?
+Shop
+Discount
+Sold
+Bringing Home The Bacon
+Eat and Run
+Sing For Your Supper
+Dessert
+Wine
+Hack -n- Slash
+Strength
+Constitution
+Dexterity
+Intelligence
+Wisdom
+Charisma
+Abilities
+Feeling Blue
+Jan Is A Tree
+Guide Is Guided To Warn Only Dante Of The Coming Golbin Horde And To Help The People of Lyno
+30 Rises and 30 Sets
+Goblin Port
+Not Carlos
+The Castle The Keep The Tower
+One  Less Rise
+Spending Shake's Money
+Shake Buys Speed
+The Pack Walks Around The Castle
+Song of Reighn Song of Shake
+The Castle
+The Keep
+The Tower
+Escape From The Tower
+Searching The Tower The Keep and The Castle
+Capture
+Stripped
+Can Not Be Good If Thought Bad
+Teleport
+Prisioners
+Two Masters
+Desert
+Mid Valley
+Training
+Is Guile Dead?
+The Run
+The Trial
+Innocent
+Glass Home
+Broken
+White Sheets
+Myst Heal
+Up
+It Is Spear
+Gladiators
+Rape
+Repent
+Tune
+Thirteen Fights
+Song of Reighn of Myst of Tune
+Light Time
+Five More Lights To Fight
+Thirty-nine Fights
+Thirty-ninth Fight
+Raise Dead
+Troll Death Moan
+Love Bond
+Mind Trust
+Mind Game
+Game Rules
+Teammate
+Playing Field
+Team Practice
+Mind Games
+Game Changer
+Subversion
+Contract
+Order
+Term
+Execution
+Pack Rats
+Tuning
+Resurrection
+Revelation
+Result
+Contract Dispute
+Caravan
+Trainers
+Train
+Suns
+Barren
+Granulate
+Lovetik
+Train Wreck
+Aqueduct From Oasis
+Constables
+Oasis
+Runtik
+Hive Hotel
+Seeing Through Walls
+Branching From The Hive Hotel
+Packed Goods
+Shafted
+Into The Shadows
+Smugglers
+Diversion
+Rubble
+Harmony
+Discord
+Ruins
+Glass Ruins
+Course
+Drover
+Drovers
+Path
+Binites
+Water Hole
+Bullseye
+Game Over
+
+
+##History
+
+
+
+##Copyright
+
+
+
