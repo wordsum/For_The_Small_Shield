@@ -1,19 +1,42 @@
 # For The Small Shield
 
-
-For The Small Shield is a story written by Kalab J. Oster&trade; that need editing either by humans or A.I..
-
 It begins in a bar as Carlos the Barded Dwarf convinces a band of youth to seek their destinies beyond a small village into the canyon to reclaim the land from the goblin horde gathering.
 
 And from the valley into the mountain and over the plains into the desert they find the horde is a civilization of goblinkin as advanced and civilized as the humans.
 
 As the goblin world clashes with the human world, the team of adventures hold the key to stop the goblin takeover of their human lead world.
 
+
+### History
+
+For The Small Shield is a story written by Kalab J. Oster&trade; that needs editing either by humans or A.I..
+
+It took over five years to write. A few chapters have been edited enough not be bad, but most have not. Kalab J. Oster&trade; just wrote as the story came to mind and it became an obsession.
+
+It has not been edited and the creation itself taught a narrative style and writing to Kalab J. Oster&trade;.
+
+Given the lack of editing, it is fair to write that words...
+
+ 1 - 400,000 are very bad
+ 400,0001 to 800,000 are bad
+ 800,0001 to 1,130,000 are almost not bad.
+
+For The Small Shield has been open sourced and free to use given you give credit Kalab J. Oster&trade; for story origin and credit for yourself for any edits made.
+
+
+### Contributing
+
+If you wish to edit and write For The Small Shield simply branch, edit or write then submit a pull request.
+
+We will work to merge your changes once life and time are given and given the change conform to the story.
+
+
 ### Source
 
 The list of chapters following are what have been recorded as the chapters of For The Small Shield as they were wrote by Kalab J. Oster&trade;.
 
 There are additional files in the source that are not indexed chapters, but time has not been given to decide their purpose, so they remain committed to this repository.
+
 
 
 ### Chapters
@@ -240,21 +263,6 @@ There are additional files in the source that are not indexed chapters, but time
 221. Game Over
 
 
-## History
-
-It took over five years to write. A few chapters have been edited enough not be bad, but most have not. Kalab J. Oster&trade; just wrote as the story came to mind and it became an obsession.
-
-For The Small Shield has been open sourced and free to use given you give credit Kalab J. Oster&trade; for story origin and credit for yourself for any edits made.
-
-
-
-### Contributing
-
-If you wish to edit and write For The Small Shield simply branch, edit or write then submit a pull request.
-
-We will work to merge your changes once life and time are given and given the change conform to the story.
-
-
 ## Copyright
 
 #### Open Story License
@@ -268,4 +276,4 @@ We will work to merge your changes once life and time are given and given the ch
   **copyright &copy; 2017 Kalab J. Oster&trade;**
 
 
-**Permission is granted by the Copyright Holders for humans or other intelligent agents to read, write, edit, publish and critique the Story if the humans or intelligent agents keep this Open Story License with the Story, and if another writer writes or edits the Story then the writer's name needs to be appended to the end of the Writer list of this Open Story License.**
+**Permission is granted by the Copyright Holders for humans or other intelligent agents to read, write, edit, publish and critique the Story if the humans or intelligent agents keep this Open Story License with the Story, and if another writer writes or edits the Story then the writer's name needs to be appended to the end of the Writer list of this Open Story License, and if the story is free.**
