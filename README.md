@@ -8,7 +8,7 @@
 # Source 
 
 ## Details
-It's a first draft, so it has not been edited. This story is linear and was written from beginning to end, using the present perfect tense and mostly action verbs. It shows more than it tells. The beginning words are very bad and become just bad near the end.
+It's a first draft, so it has not been edited. This story is linear and was written from beginning to end, using the simple present tense and mostly action verbs. It shows more than it tells. The beginning words are very bad and become just bad near the end.
 
 ### Chapters
 1. In The Bar
@@ -247,4 +247,4 @@ It's a first draft, so it has not been edited. This story is linear and was writ
   **copyright &copy; 2017 Kalab J. Oster**
 
 
-**Permission is granted by the Copyright Holders for humans or other intelligent agents to read, write, edit, publish and critique the Story if the humans or intelligent agents keep this Open Story License with the Story, and the story created is free to read and attributes to this source if used for training or fine-tuning an LLM/A.I. unless you are the Copyright Holder.**
+**Permission is granted by the Copyright Holder for humans or other intelligent agents to read, write, edit, publish and critique the Story if the humans or intelligent agents keep this Open Story License with the Story, and the story created is free to read and attributes to this source if used for training or fine-tuning an LLM/A.I. unless you are the Copyright Holder.**
