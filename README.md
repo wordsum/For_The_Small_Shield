@@ -1,44 +1,14 @@
 # For The Small Shield
+**For The Small Shield** is the first draft of an epic fantasy adventure written by Kalab J. Oster and inspired by role-playing games. It took over five years to write and was soon released under an [Open Story License](#open-story-license) because the writer knew they'd never have time to finish it, but could use it to inspire themselves, and maybe others. It is currently being used by the author to fine-tune an LLM to help create an interactive history for his following project, **Of The Small Shield**.
 
-It begins in a bar as Carlos the Barded Dwarf convinces a band of youth to seek their destinies beyond a small village into the canyon to reclaim the land from the goblin horde gathering.
+**Of The Small Shield** has an [Instagram Account Of The Small Shield](https://www.instagram.com/ofthesmallshield/?hl=en) showing the use of writing and dioramas to create novels and stop-motion tales to create animation. The author is currently writing and editing the manuscript, Pray of Bin, due out next year.
 
-And from the valley into the mountain and over the plains into the desert they find the horde is a civilization of goblinkin as advanced and civilized as the humans.
+**For The Small Shield** will soon have a large language model version on Huggingface fine-tuned to tell the tale For The Small Shield in the voice of famous bard, Carlos the Barded Dwarf.
 
-As the goblin world clashes with the human world, the team of adventures hold the key to stop the goblin takeover of their human lead world.
+# Source 
 
-
-### History
-
-For The Small Shield is a story written by Kalab J. Oster&trade; that needs editing either by humans or A.I..
-
-It took over five years to write. A few chapters have been edited enough to not be bad, but most have not.
-
-Given the lack of editing, it is fair to write that words...
-
- 1 - 400,000 are very bad
-
- 400,0001 to 800,000 are bad
-
- 800,0001 to 1,130,000 are almost not bad.
-
-Kalab J. Oster&trade; realizes he has too many other stories written to edit and too many other thoughts to write to ever be able to edit the words of this story even though he wants it to be a book.
-
-### Contributing
-
-For The Small Shield has been open sourced and free to read, write, edit or publish if you abide by the Open Story License defined below.
-
-If you wish to edit and write For The Small Shield simply branch, edit or write then submit a pull request.
-
-We will work to merge your changes once life and time are given and given the change conform to the story.
-
-
-### Source
-
-The list of chapters following are what have been recorded as the chapters of For The Small Shield as they were wrote by Kalab J. Oster&trade;.
-
-There are additional files in the source that are not indexed chapters, but time has not been given to decide their purpose, so they remain committed to this repository.
-
-
+## Details
+It's a first draft, so it has not been edited. This story is linear and was written from beginning to end, using the present perfect tense and mostly action verbs. It shows more than it tells. The beginning words are very bad and become just bad near the end.
 
 ### Chapters
 1. In The Bar
@@ -270,11 +240,11 @@ There are additional files in the source that are not indexed chapters, but time
 
   **Story: For The Small Shield**
 
-  **Writer: Kalab J. Oster&trade;**
+  **Writer: Kalab J. Oster**
 
-  **Copyright Holders: Kalab J. Oster&trade;**
+  **Copyright Holder: Kalab J. Oster**
 
-  **copyright &copy; 2017 Kalab J. Oster&trade;**
+  **copyright &copy; 2017 Kalab J. Oster**
 
 
-**Permission is granted by the Copyright Holders for humans or other intelligent agents to read, write, edit, publish and critique the Story if the humans or intelligent agents keep this Open Story License with the Story, and if another writer writes or edits the Story then the writer's name needs to be appended to the end of the Writer list of this Open Story License, and if the story is free.**
+**Permission is granted by the Copyright Holders for humans or other intelligent agents to read, write, edit, publish and critique the Story if the humans or intelligent agents keep this Open Story License with the Story, and the story created is free to read and attributes to this source if used for training or fine-tuning an LLM/A.I. unless you are the Copyright Holder.**
